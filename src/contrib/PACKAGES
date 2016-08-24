@@ -8,9 +8,9 @@ MD5sum: 63d3b492572d57e1f32d9d0ea3c168c5
 NeedsCompilation: no
 
 Package: travisDrat
-Version: 0.1.0
+Version: 0.1.1
 Imports: drat, devtools
 License: MIT + file LICENSE
-MD5sum: a8566e4c699d70842ce082333b37dcf0
+MD5sum: c93210226e6649a3de9aff34181e78d5
 NeedsCompilation: no
 
