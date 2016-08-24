@@ -7,6 +7,17 @@ License: MIT + file LICENSE
 MD5sum: 63d3b492572d57e1f32d9d0ea3c168c5
 NeedsCompilation: no
 
+Package: packagedocs
+Version: 0.3.6.9999
+Depends: R (>= 3.1.1)
+Imports: crayon, devtools, digest, evaluate, highlight, htmltools,
+        knitr, lazyrmd, magrittr, rmarkdown, stringr, tools, whisker,
+        yaml
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: d45d8eab3d6c7f2d071c23046bfee34b
+NeedsCompilation: no
+
 Package: travisDrat
 Version: 0.1.1
 Imports: drat, devtools
