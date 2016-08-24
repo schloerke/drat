@@ -22,6 +22,6 @@ Package: travisDrat
 Version: 0.1.1
 Imports: drat, devtools
 License: MIT + file LICENSE
-MD5sum: ff91f75b4496f850f5b2bf87a5acf7e4
+MD5sum: 538243c6b9f7e369d5fc6aa68c4fd7b3
 NeedsCompilation: no
 
