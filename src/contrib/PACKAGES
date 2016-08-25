@@ -15,7 +15,7 @@ Imports: crayon, devtools, digest, evaluate, highlight, htmltools,
         yaml
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: 60356a6971def2a0c51474a701e5568a
+MD5sum: 9d21a6cc5f81180ded33fea599a87784
 NeedsCompilation: no
 
 Package: travisDrat
