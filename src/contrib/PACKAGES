@@ -9,7 +9,7 @@ Suggests: broom (>= 0.4.0), chemometrics, geosphere (>= 1.5-1), igraph
         2.3-2), survival, packagedocs, knitr, rmarkdown, roxygen2,
         testthat
 License: GPL (>= 2.0)
-MD5sum: 8a24926b4ea87f7ae022591ccf89e2e3
+MD5sum: bcf5f617dfff06c7d2e8ccd5e02748a3
 NeedsCompilation: no
 
 Package: lazyrmd
