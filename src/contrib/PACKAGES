@@ -32,6 +32,16 @@ License: MIT + file LICENSE
 MD5sum: b2133385b6891a9ebde22187fe2f720c
 NeedsCompilation: no
 
+Package: stat695data
+Version: 0.0.0.9000
+Depends: R (>= 3.0.0)
+Imports: stringr, rvest, lubridate, progress, plyr, magrittr, dplyr,
+        gapminder, xml2, rbokeh, tibble, tidyr
+Suggests: doParallel
+License: MIT + file LICENSE
+MD5sum: 0c0be173f3661635bdbc31f29ea3c711
+NeedsCompilation: no
+
 Package: travisDrat
 Version: 0.1.1
 Imports: drat, devtools
