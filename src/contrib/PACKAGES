@@ -49,3 +49,15 @@ License: MIT + file LICENSE
 MD5sum: aee562be0825f56e54e1a4046d577955
 NeedsCompilation: no
 
+Package: trelliscopejs
+Version: 0.1.8
+Depends: R (>= 3.2.3)
+Imports: dplyr, purrr, tidyr, htmltools, DistributionUtils, grDevices,
+        digest, jsonlite, ggplot2 (> 2.1.0), base64enc, htmlwidgets,
+        graphics, progress, utils, knitr, webshot
+Suggests: rbokeh, plotly, Cairo, testthat, covr, gapminder,
+        housingData, packagedocs
+License: BSD_3_clause + file LICENSE
+MD5sum: 2962fc179b13f5ed7f0254caa5c629f0
+NeedsCompilation: no
+
