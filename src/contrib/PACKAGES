@@ -58,6 +58,6 @@ Imports: dplyr, purrr, tidyr, htmltools, DistributionUtils, grDevices,
 Suggests: rbokeh, plotly, Cairo, testthat, covr, gapminder,
         housingData, packagedocs
 License: BSD_3_clause + file LICENSE
-MD5sum: 2962fc179b13f5ed7f0254caa5c629f0
+MD5sum: 60137e1cabb4b1803b2abd1c8171bf2b
 NeedsCompilation: no
 
