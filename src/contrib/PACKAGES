@@ -39,7 +39,7 @@ Imports: stringr, rvest, lubridate, progress, plyr, magrittr, dplyr,
         gapminder, xml2, rbokeh, tibble, tidyr
 Suggests: doParallel
 License: MIT + file LICENSE
-MD5sum: 2c4e866a30e9aaa5fc8824ec65cf1bac
+MD5sum: 6260dd8838dfb0fc194f9fc72b71f6f5
 NeedsCompilation: no
 
 Package: travisDrat
