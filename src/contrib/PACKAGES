@@ -1,5 +1,5 @@
 Package: GGally
-Version: 1.3.0
+Version: 1.3.1
 Depends: R (>= 3.1)
 Imports: ggplot2 (>= 2.2.0), grid, gtable (>= 0.2.0), plyr (>= 1.8.3),
         progress, RColorBrewer, reshape (>= 0.8.5), utils
@@ -9,7 +9,7 @@ Suggests: broom (>= 0.4.0), chemometrics, geosphere (>= 1.5-1), igraph
         2.3-2), survival, packagedocs (>= 0.4.0), rmarkdown, roxygen2,
         testthat
 License: GPL (>= 2.0)
-MD5sum: ca27bb0fdef0eabff5726790db1e1d17
+MD5sum: 21c3bfaefb945fed81dce8406fcf65a5
 NeedsCompilation: no
 
 Package: lazyrmd
@@ -60,4 +60,3 @@ Suggests: rbokeh, plotly, Cairo, testthat, covr, gapminder,
 License: BSD_3_clause + file LICENSE
 MD5sum: 60137e1cabb4b1803b2abd1c8171bf2b
 NeedsCompilation: no
-
