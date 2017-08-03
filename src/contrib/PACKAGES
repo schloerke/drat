@@ -1,15 +1,15 @@
 Package: GGally
-Version: 1.3.1
+Version: 1.3.2
 Depends: R (>= 3.1)
-Imports: ggplot2 (>= 2.2.0), grid, gtable (>= 0.2.0), plyr (>= 1.8.3),
-        progress, RColorBrewer, reshape (>= 0.8.5), utils
+Imports: ggplot2 (>= 2.2.0), grDevices, grid, gtable (>= 0.2.0), plyr
+        (>= 1.8.3), progress, RColorBrewer, reshape (>= 0.8.5), utils
 Suggests: broom (>= 0.4.0), chemometrics, geosphere (>= 1.5-1), igraph
         (>= 1.0.1), intergraph (>= 2.0-2), maps (>= 3.1.0), mapproj,
         network (>= 1.12.0), scagnostics, scales (>= 0.4.0), sna (>=
         2.3-2), survival, packagedocs (>= 0.4.0), rmarkdown, roxygen2,
         testthat
 License: GPL (>= 2.0)
-MD5sum: f72447579bef15ae7ab82c7e98543db6
+MD5sum: f10eb56c6a8fdedee7f29a06b157554e
 NeedsCompilation: no
 
 Package: lazyrmd
