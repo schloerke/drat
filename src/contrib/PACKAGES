@@ -7,9 +7,9 @@ Suggests: broom (>= 0.4.0), chemometrics, geosphere (>= 1.5-1), igraph
         (>= 1.0.1), intergraph (>= 2.0-2), maps (>= 3.1.0), mapproj,
         network (>= 1.12.0), scagnostics, scales (>= 0.4.0), sna (>=
         2.3-2), survival, packagedocs (>= 0.4.0), rmarkdown, roxygen2,
-        testthat
+        testthat, crosstalk
 License: GPL (>= 2.0)
-MD5sum: 357a1487a2a6f5f1d10cec326ce53456
+MD5sum: a8edff582cec4e74e232035b8230f9d0
 NeedsCompilation: no
 
 Package: lazyrmd
